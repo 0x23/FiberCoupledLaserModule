@@ -8,9 +8,9 @@ The goal of this project is to provide an open, accessible alternative that can 
 Collimated or focussed lasers can cause serious eye injury. Do not replicate without proper training and appropiate laser safety precautions.
 
 <div style="display: flex;">
-    <img src="images/mdoule_405nm.jpg" alt="Example Image 3" width="30%">
-    <img src="images/module_512nm.jpg" alt="Example Image 4" width="30%">
-    <img src="images/module_512nm_closeup.jpg" alt="Example Image 4" width="30%">
+    <img src="images/mdoule_405nm.jpg" alt="Example Image 3" width="32%">
+    <img src="images/module_512nm.jpg" alt="Example Image 4" width="32%">
+    <img src="images/module_512nm_closeup.jpg" alt="Example Image 4" width="32%">
 </div>
 
 For detailed information on the design, construction process, and underlying principles, take a look at the project's YouTube video:
@@ -22,5 +22,5 @@ For detailed information on the design, construction process, and underlying pri
 The device was constructed in FreeCAD, feel free to take a look or reuse any components within the project.
 
 <div style="display: flex;">
-    <img src="images/cad_model.jpg" alt="Example 4 - Optical Cavity with Standing Waves" width="50%">
+    <img src="images/cad_model.jpg" alt="Example 4 - Optical Cavity with Standing Waves" width="96%">
 </div>
