@@ -6,12 +6,17 @@ The goal of this project is to provide an open, accessible alternative that can 
 
 ### ⚠️ WARNING
 Collimated or focussed lasers can cause serious eye injury. Do not replicate without proper training and appropiate laser safety precautions.
+</br>
+</br>
+</br>
 
 <div style="display: flex;">
     <img src="images/mdoule_405nm.jpg" alt="Example Image 3" width="32%">
     <img src="images/module_512nm.jpg" alt="Example Image 4" width="32%">
     <img src="images/module_512nm_closeup.jpg" alt="Example Image 4" width="32%">
 </div>
+
+### Video
 
 For detailed information on the design, construction process, and underlying principles, take a look at the project's YouTube video:
 
