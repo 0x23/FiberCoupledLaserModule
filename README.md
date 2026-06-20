@@ -1,12 +1,19 @@
 # Fiber Coupled Laser Module
-A customizable fiber coupled laser diode module
 
+This project provides a compact, customizable fiber-coupled laser diode module platform suitable for the entire visible spectrum. Fiber-coupled light sources are widely used in scientific, industrial, and educational applications, but commercial solutions are often expensive, difficult to customize, or unavailable for specific combinations of laser diodes and optical fibers. In many cases, modules tailored to special wavelengths, uncommon fiber types, or unique experimental requirements simply cannot be sourced off the shelf.
+
+The goal of this project is to provide an open, accessible alternative that can be built using readily available components and a simple machined brass part, while maintaining the precision required for efficient coupling into single-mode and other fibers. The design emphasizes flexibility, reproducibility, and ease of modification, making it suitable both as a practical light source and as a platform for exploring fiber-optic technologies.
 
 <div style="display: flex;">
-    <img src="images/mdoule_405nm.jpg" alt="Example Image 3" width="33%">
-    <img src="images/module_512nm.jpg" alt="Example Image 4" width="33%">
-    <img src="images/module_512nm_closeup.jpg" alt="Example Image 4" width="33%">
+    <img src="images/mdoule_405nm.jpg" alt="Example Image 3" width="30%">
+    <img src="images/module_512nm.jpg" alt="Example Image 4" width="30%">
+    <img src="images/module_512nm_closeup.jpg" alt="Example Image 4" width="30%">
 </div>
+
+### ⚠️ WARNING
+Collimated or focussed lasers can cause serious eye injury. Do not replicate without proper training and appropiate laser safety precautions.
+
+
 
 
 [![Watch the video on YouTube](https://img.youtube.com/vi/l26sCJn0sB4/0.jpg)](https://youtu.be/l26sCJn0sB4)
